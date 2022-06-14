@@ -1,0 +1,12 @@
+h1 {
+	color:blue;
+}
+.premierpt {
+	font-style:italic;
+	color:purple;
+}
+.deuxiemept{
+	font-size:bold;
+	color:orange;
+}
+body{color:grey;}
