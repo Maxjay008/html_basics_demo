@@ -1,4 +1,4 @@
-# html_basics_demo
+# html_basics_demo (without css)
 to navigate through my html project, you should:
 a) open the folder "mitan"
 b) open the folder "devan"
